@@ -39,7 +39,7 @@ It is also recommended to disable “Fur Rendering,” “Anti-Aliasing,” and 
 
 Right-click to make the copyright follow the cursor.
 
-Press 「OEM＋」 to switch to the vertical shooting frame.
+Press 「:」() to switch to the vertical shooting frame.
 (If you want to change it to another key, right-click “copyright”, “copyright 90°”, or “Vertical Previewer and Composition” in GShade, and you can reassign it to a different key. Please configure it according to your preference.)
 
 ～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～
